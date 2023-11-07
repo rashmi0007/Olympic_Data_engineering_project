@@ -15,4 +15,4 @@ Then, Azure Databricks is used for data processing and transformation tasks. Dat
 Azure Synapse Analytics, a powerful analytics service, is used for data warehousing and advanced analytics. It enables the storage and analysis of large volumes of structured and unstructured data. 
 ![Olympic_Synapse_analytics](https://github.com/rashmi0007/Olympic_Data_engineering_project/assets/87612040/2b0c2fb2-00da-44b0-83da-eb339c82d632)
 
-After the data is transformed it can be used for visualization and analysis using Tableau or PowerBi.
+After the data is transformed it can be used for visualization and analysis using Tableau or PowerBI.
